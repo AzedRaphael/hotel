@@ -1,0 +1,95 @@
+{
+  "hotels": [
+    {
+      "hname": "hyatt place birmingham",
+      "country": "US",
+      "city": "alabama",
+      "address": "2980 john hawkins pkwy, birmingham, AL 35244",
+      "group": "hyatt",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "hname": "andaz scottsdale resort & bungalows",
+      "country": "US",
+      "address": "6114, N scottsdale rd, scottdale,AZ 85253",
+      "city": "arizona",
+      "group": "hyatt",
+      "id": 3
+    },
+    {
+      "hname": "hyatt house anchorage",
+      "country": "US",
+      "city": "alaska",
+      "address": "5141 business park blvd,anchorage,AK 99518",
+      "group": "hyatt",
+      "id": 4
+    },
+    {
+      "hname": "hyatt place fairbanks",
+      "country": "US",
+      "address": "400 merhar ave,fairbanks, AK 99701",
+      "city": "alaska",
+      "group": "hyatt",
+      "id": 5
+    },
+    {
+      "hname": "hyatt house north scottdale",
+      "country": "US",
+      "address": "18513 N scottdale rd,scottdale,AZ 85255",
+      "city": "arizona",
+      "group": "hyatt",
+      "id": 6
+    },
+    {
+      "hname": "atlanta marriott marquis",
+      "country": "US",
+      "address": "265 peachtree center avenue,NE atlanta georgia",
+      "city": "gerogia",
+      "group": "marriott",
+      "id": 7
+    },
+    {
+      "hname": "inidianapolis marriott downtown",
+      "country": "US",
+      "address": "350 west maryland street indianapolis indiana",
+      "city": "indiana",
+      "group": "marriott",
+      "id": 8
+    },
+    {
+      "hname": "portland marriott city center",
+      "country": "US",
+      "address": "502 dens way southwest broadway portland oregon",
+      "city": "oregon",
+      "group": "marriott",
+      "id": 9
+    },
+    {
+      "hname": "hilton winnipeg airport suites",
+      "country": "Canada",
+      "address": "1800 wellington avenue winnipeg,manitoba R3H1B2 canada",
+      "city": "winnipeg",
+      "group": "hilton",
+      "id": 10
+    },
+    {
+      "hname": "hilton whistler resort and spa",
+      "country": "Canada",
+      "address": "4050 whistler way whistler british columbia V8E1H9 canada",
+      "city": "whistler",
+      "group": "hilton",
+      "id": 11
+    },
+    {
+      "hname": "hyatt huntsville/research park",
+      "country": "US",
+      "address": "6860 governors W,huntsville,AL 35806",
+      "city": "alabama",
+      "group": "hyatt",
+      "id": 12
+    }
+  ]
+}
